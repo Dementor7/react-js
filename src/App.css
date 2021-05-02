@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: lightslategrey;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    
+
+}
